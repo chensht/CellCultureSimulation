@@ -1,0 +1,7 @@
+{
+  "PatternsToDomainsInput" : "/home/alu/fulther/Scripts/scripts_python/HW/ex3_bad_input_patterns.csv",
+  "GenomicSequencesInput": "ex3_bad_input_genomic_sequences.txt",
+  "OutputFile": "badoutput.csv",
+  "MaxCycles": 5,
+  "MaxCells": 200
+}
